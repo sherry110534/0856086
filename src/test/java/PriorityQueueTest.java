@@ -32,8 +32,8 @@ public class PriorityQueueTest {
             });
     }
 
-    @Test
-    public void testGetCorrectOrder(){
+//    @Test
+//    public void testGetCorrectOrder(){
 //        PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
 //        for(int i=0; i<random_data.length; i++){
 //            pq.offer(random_data[i]);
@@ -44,41 +44,40 @@ public class PriorityQueueTest {
 //            assertEquals(expected_data[j], tmp);
 //            j++;
 //        }
-        System.out.println("hi");
-    }
-
-    // exception test
-    // ref. https://www.geeksforgeeks.org/java-util-priorityqueue-class-java/
-
-    @Test(expected = NullPointerException.class)
-    public void whenOfferExceptionThrown(){
-        PriorityQueue<String> pq = new PriorityQueue<String>();
-        pq.offer(null);
-    }
-
-    @Test(expected = NullPointerException.class)
-    public void whenAddNullExceptionThrown(){
-        PriorityQueue<String> pq = new PriorityQueue<String>();
-        pq.add(null);
-    }
-
-    @Test(expected = ClassCastException.class)
-    public void whenAddClassExceptionThrown(){
-        class User{
-            public final String name;
-            public final String ID;
-
-            public User(String name, String ID){
-                this.name = name;
-                this.ID = ID;
-            }
-            public String toString(){
-                return name + "/" + ID;
-            }
-        }
-        PriorityQueue<User> pq = new PriorityQueue<User>();
-        pq.offer(new User("Bob", "1234"));
-    }
+//    }
+//
+//    // exception test
+//    // ref. https://www.geeksforgeeks.org/java-util-priorityqueue-class-java/
+//
+//    @Test(expected = NullPointerException.class)
+//    public void whenOfferExceptionThrown(){
+//        PriorityQueue<String> pq = new PriorityQueue<String>();
+//        pq.offer(null);
+//    }
+//
+//    @Test(expected = NullPointerException.class)
+//    public void whenAddNullExceptionThrown(){
+//        PriorityQueue<String> pq = new PriorityQueue<String>();
+//        pq.add(null);
+//    }
+//
+//    @Test(expected = ClassCastException.class)
+//    public void whenAddClassExceptionThrown(){
+//        class User{
+//            public final String name;
+//            public final String ID;
+//
+//            public User(String name, String ID){
+//                this.name = name;
+//                this.ID = ID;
+//            }
+//            public String toString(){
+//                return name + "/" + ID;
+//            }
+//        }
+//        PriorityQueue<User> pq = new PriorityQueue<User>();
+//        pq.offer(new User("Bob", "1234"));
+//    }
 
 
 }
