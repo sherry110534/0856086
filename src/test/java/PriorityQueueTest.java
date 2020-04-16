@@ -41,7 +41,7 @@ public class PriorityQueueTest {
         int j = 0;
         Integer tmp = 0;
         while((tmp = pq.poll()) != null){
-            assertEquals(expected_data[j], tmp);
+            assertEquals(expected_data[0], tmp);
             j++;
         }
     }
