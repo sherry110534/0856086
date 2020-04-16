@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1894e7e3-b276-4492-963b-91eec7fd985f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PriorityQueueTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e868e4e7-1e0d-4613-a0af-c677ab58e00e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -20,8 +14,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1abWg6WcJJE0F4rO1OtlfByzepO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1abh4bbhRBwmmijq2HZToxgpP85" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,36 +22,120 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab4" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DU JIN\Desktop\課程資料\課程資料-碩一下\軟體測試\Lab\Lab\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PriorityQueueTest (2)">
+    <configuration name="PriorityQueueTest (1)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest (2)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PriorityQueueTest (2)" />
+        <item itemvalue="Android JUnit.PriorityQueueTest (2)" />
+        <item itemvalue="JUnit.PriorityQueueTest (1)" />
+        <item itemvalue="Android JUnit.PriorityQueueTest (1)" />
+        <item itemvalue="JUnit.PriorityQueueTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1894e7e3-b276-4492-963b-91eec7fd985f" name="Default Changelist" comment="" />
-      <created>1587004881233</created>
+      <changelist id="e868e4e7-1e0d-4613-a0af-c677ab58e00e" name="Default Changelist" comment="" />
+      <created>1587010010185</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587004881233</updated>
+      <updated>1587010010185</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1038" y="238" key="#Project_Structure" timestamp="1587005802378">
+    <state x="552" y="238" key="#Project_Structure" timestamp="1587010032145">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1038" y="238" key="#Project_Structure/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587005802378" />
-    <state x="1178" y="258" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587005585767">
+    <state x="552" y="238" key="#Project_Structure/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587010032145" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1587012138842">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1178" y="258" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587005585767" />
-    <state x="673" y="81" key="new project wizard" timestamp="1587006170755">
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587012138842" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1587012130275">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="673" y="81" key="new project wizard/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587006170755" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587012130275" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1587012130275">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587012130275" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1587012130275">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587012130275" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1587012130275">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587012130275" />
+    <state x="461" y="222" key="SettingsEditor" timestamp="1587010549168">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="222" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587010549168" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1587010487907">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1587010487907" />
   </component>
 </project>
